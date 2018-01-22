@@ -2,12 +2,22 @@
 
 You can use the [editor on GitHub](https://github.com/MHM18/hm18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+<<<<<<< HEAD
+我是谢凯年
+
+我是张昕杨
+=======
+
 我是谢凯年
 
 我是张昕杨
 
+>>>>>>> 969b50a86b8d71a317b93b4a3c378d01b535c153
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 我是蒙毅
+
+请多指教~
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
