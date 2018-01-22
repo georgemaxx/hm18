@@ -2,12 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/MHM18/hm18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<<<<<<< HEAD
+
 我是谢凯年
 
-=======
 我是张昕杨
->>>>>>> 39f276ec16307d5bbedb2216c04694812b469fb6
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 我是蒙毅
