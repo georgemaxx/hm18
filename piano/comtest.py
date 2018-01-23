@@ -18,7 +18,7 @@ song1 = row.split(',')
 
 for p in ports:
     print (p[1])
-    if "USB-SERIAL CH340" in p[1]:
+    if "USB-SERIAL" in p[1]:
 	    ser=serial.Serial(port=p[0])
     else :
 	    print ("No Arduino Device was found connected to the computer")
@@ -41,6 +41,7 @@ def run():
                 ser.write(notes.encode())
                 print ("send:"+notes)
                 time.sleep(1)
+
         else :
             return
 
