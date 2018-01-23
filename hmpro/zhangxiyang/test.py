@@ -8,5 +8,5 @@ w = 4
 h = 5
 def myprint(w,h):
     s = area(w,h)
-    print("width=",w,"height=",h,"area=",a)
+    print("width=",w,"height=",h,"area=",s)
 myprint(12,5)
