@@ -1,6 +1,6 @@
 def printme(frog):
-    for i in range(4):
+    for i in range(50):
         print(frog)
     return
 
-printme(gua)
+printme("gua")
