@@ -13,7 +13,7 @@ f = open('mysongs.csv', 'r')
 data = f.read()
 rows = data.split('\n')
 print(rows[0:5])
-row=rows[0]
+row=rows[2]
 song1 = row.split(',')
 
 for p in ports:
