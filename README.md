@@ -4,7 +4,7 @@
 
 pip3 install --upgrade pip
 pip3 install decorator==4.1.2
-pip3 install jupyter
+pip3 install jupyter   
 
 
 You can use the [editor on GitHub](https://github.com/MHM18/hm18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
