@@ -1,0 +1,4 @@
+def printme(str);
+for i in range 10；
+    print (str)
+printme("glory");
