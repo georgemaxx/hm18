@@ -18,12 +18,7 @@ song3 = ['3','6','7','11','7','6','3','6','7','11','12','11','12','13']
 
 for p in ports:
     print (p[1])
-<<<<<<< HEAD
-    if "Arduino" in p[1]:
-
-=======
     if "USB-SERIAL CH340 (COM3)" in p[1]:
->>>>>>> c78caaab8e8b17e1446e8151649266ae0c24bf82
 	    ser=serial.Serial(port=p[0])
     else :
 	    print ("No Arduino Device was found connected to the computer")
