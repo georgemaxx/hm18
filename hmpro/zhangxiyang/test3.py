@@ -1,7 +1,7 @@
 def changelist(list):
-    list.append([1,59,gua])
+    list.append([1,59,"gua"])
     print(list)
 
-mylist = [toad]
+mylist = ["toad"]
 changelist(mylist)
 print(mylist)
