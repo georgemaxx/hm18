@@ -1,0 +1,6 @@
+f=open('a.txt',encoding='utf-8')
+content=f.readline()
+print('readline:',content.strip())
+content2=f.readline()
+print(content2.strip())
+f.close()

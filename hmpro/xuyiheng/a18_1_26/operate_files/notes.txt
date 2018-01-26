@@ -1,0 +1,3 @@
+read读所有内容
+read(n)读指定个单位
+readline()往下读一行
