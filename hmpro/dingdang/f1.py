@@ -1,0 +1,2 @@
+import three
+three.printme()
