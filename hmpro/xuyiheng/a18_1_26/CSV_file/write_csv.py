@@ -8,3 +8,4 @@ writer.writerow(fileHeader)
 writer.writerow(d1)
 writer.writerow(d2)
 csvFile.close
+#writer.writerow([fileHeader, d1, d2])
