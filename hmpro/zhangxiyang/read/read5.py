@@ -1,0 +1,8 @@
+f = open('C:/Users/SuiYa/Documents/GitHub/hm18/hmpro/zhangxiyang/abc.txt','r',encoding='utf-8')
+data = f.read(3)
+content = f.readline()
+content2 = f.readline()
+print(data)
+print(content.strip())
+print(content2.strip())
+f.close()
