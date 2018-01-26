@@ -1,2 +1,2 @@
 import impyin
-printme()
+impyin.printme()
