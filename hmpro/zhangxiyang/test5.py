@@ -1,4 +1,5 @@
 def pritn(ha,like = "potato"):
     print(ha,like)
     return
-pritn(ha = "me")
+if __name__ == 'main':
+    pritn(ha = "me")
