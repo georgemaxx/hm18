@@ -1,7 +1,0 @@
-num=1
-def fun1():
-	global num
-	print(num)
-	num=123
-	print(num)
-fun1()
