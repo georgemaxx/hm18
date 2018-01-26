@@ -1,4 +1,4 @@
-f = open('ONE DAY TOO LATE2.jpg'.'r')
+f = open('target.txt','r',encoding='utf-8')
 data = f.read()
-f.close
+f.close()
 print (data)
