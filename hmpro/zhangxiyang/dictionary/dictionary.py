@@ -3,5 +3,7 @@ dict1 = {
 666 : 'xiu'
 }
 dict = {
-'name' : 'zxy' 
+'name' : 'zxy'
 }
+print (dict)
+print(dict1['toad'])
