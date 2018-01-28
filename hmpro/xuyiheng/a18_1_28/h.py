@@ -11,4 +11,4 @@ a=[[[matrix[a][0]] for a in range(3)],
    [[matrix[a][3]] for a in range(3)]
    ]
 
-a=[[[matrix[a][b]] for a in range(3)] for b in range(4)]
+a=[[matrix[a][b] for a in range(3)] for b in range(4)]
