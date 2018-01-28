@@ -18,3 +18,11 @@ vec = [2,4,6]
 freshfruit = [' banana ', ' loganberry ', ' passion fruit ']
 [weapon.strip() for weapon in freshfruit]
 #得到的每一个元素都去掉了空格
+
+vec1= [2,4,6]
+vec2= [3,5,7]
+[x*y for x in vec1 for y in vec2]
+
+[vec1[i]*vec2[i] for i in range(len(vec1))]
+#range(x),程序执行x次
+#len(vec1) 即vec1的长度（长度为3）
