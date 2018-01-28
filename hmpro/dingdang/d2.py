@@ -6,3 +6,5 @@ print ("Age",dict1['Age'])
 print ("Team",dict1['Team'])
 print ("Character",dict2['Character'])
 print ("career",dict2['career'])
+
+len(dict1)
