@@ -21,10 +21,3 @@ for i in citys['北京']:
 
 for i in citys['上海']['浦东']:
       print(i)
-
-
-程序2
-knights = {'gallahad': 'the pure', 'robin': 'the brave'}
-for k,v in knights.items():
-    print(k,v)
-#k,v指代两个变量，可改为其他的。目的是分别反应键和值

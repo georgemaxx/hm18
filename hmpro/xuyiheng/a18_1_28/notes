@@ -1,0 +1,7 @@
+字典内置函数：
+len(dict)计算字典元素个数
+str(dict)输出字典
+type(variable)返回输入的变量类型
+
+数据结构：
+list.append(x)将元素添加到列表末尾
