@@ -1,2 +1,4 @@
-var = "Hello world"
-print(var[:6] + 'Runoob')
+print("Hello\nworld")
+print("hello\\nha")
+print('hello\bw')
+print("hello\\b")
