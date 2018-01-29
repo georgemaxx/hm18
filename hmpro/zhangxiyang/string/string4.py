@@ -1,2 +1,5 @@
-a = "hello"
-print('h' in a)
+a = "toad"
+if 't' in a:
+    print("t is in a")
+else:
+    print("t is not in a")
